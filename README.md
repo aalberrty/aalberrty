@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aalberrty
-- 👀 I’m interested in blockchain, digital certificate， watermark
+- 👀 I’m interested in blockchain, digital certificate, watermark
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ... (nothing yet)
 - 📫 How to reach me:
